@@ -4,6 +4,6 @@ BKNR datastore - MOP-Based in-memory database with transactions for Common Lisp
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/hanshuebner/bknr-datastore.git |
-| commit  | c98d44f                                               |
+| commit  | 171e6df                                               |
 | systems | bknr.datastore                                        |
 |---------+-------------------------------------------------------|
