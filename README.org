@@ -2,9 +2,10 @@
 
 A persistent object store for Common Lisp.
 
-|---------+--------------------------------------------------------|
-| source  | git:https://github.com/hanshuebner/bknr-datastore.git  |
-| commit  | 171e6df                                                |
-| systems | bknr.datastore                                         |
-|---------+--------------------------------------------------------|
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/hanshuebner/bknr-datastore.git |
+| commit  | 71df95b                                               |
+| systems | bknr.datastore                                        |
+|---------+-------------------------------------------------------|
+---|
 
